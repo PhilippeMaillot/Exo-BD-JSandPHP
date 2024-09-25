@@ -120,11 +120,3 @@ La base de données comprend au moins deux tables :
 ## API utilisée
 
 - Les informations des armes proviennent de l'API **[MHW DB](https://mhw-db.com/weapons)**, qui fournit des données détaillées sur les armes du jeu Monster Hunter World.
-
-## Contributions
-
-Les contributions sont les bienvenues ! N'hésitez pas à ouvrir des issues ou à proposer des pull requests.
-
----
-
-Cette version est plus claire et suit une organisation standard pour un projet de développement web, avec une attention particulière à la structure des dossiers, aux fonctionnalités, et à la configuration.
