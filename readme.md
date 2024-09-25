@@ -66,7 +66,7 @@ L'application fonctionne avec **XAMPP**, qui permet de lancer le serveur Apache 
    Clonez le dépôt dans le répertoire htdocs de XAMPP.
 
    ```bash
-   git clone <url_du_dépôt>
+   git clone https://github.com/PhilippeMaillot/Exo-BD-JSandPHP.git
    ```
 
 2. **Configurer la base de données** :
