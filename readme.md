@@ -1,8 +1,8 @@
-Voici une mise en forme plus structurée et détaillée pour le fichier `README.md` de ton projet **Monster Hunter World Weapon App** :
+Voici une mise en forme plus structurée et détaillée pour le fichier `README.md` de ton projet **Monster Hunter World App** :
 
 ---
 
-# Monster Hunter World Weapon App
+# Monster Hunter World App
 
 Cette application permet aux utilisateurs de consulter les informations des armes du jeu **Monster Hunter World** et de les gérer via une fonctionnalité de favoris. Les données sur les armes sont récupérées à partir de l'API publique [MHW DB](https://mhw-db.com/weapons).
 
